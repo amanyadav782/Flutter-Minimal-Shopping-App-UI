@@ -1,4 +1,4 @@
-# Flutter Minimal Shopping App ui
+# Flutter Minimal Shopping App UI
 
 ![](assets/preview.jpg)
 
